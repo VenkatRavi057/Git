@@ -13,6 +13,7 @@ public class Git {
 		System.out.println("Message from develop after the pull from master!!");
 		
 		System.out.println("Message from master after the pull from develop and pushing at 11.18 AM at GMT ");
+		System.out.println("From develop before merging to master");
 
 	}
 }
